@@ -29,7 +29,7 @@ spec:
         service: web
     spec:
       containers:
-      - image: europe-west2-docker.pkg.dev/gq-cloud-computing/fodie-and-ali-repo/tripmeal-web:1.0
+      - image: europe-west2-docker.pkg.dev/gq-cloud-computing/fodie-and-ali-repo/tripmeal-frontend
         name: web
         ports:
         - containerPort: 5000
@@ -80,7 +80,7 @@ spec:
         service: db
     spec:
       containers:
-      - image: europe-west2-docker.pkg.dev/gq-cloud-computing/fodie-and-ali-repo/tripmeal-db:1.0
+      - image: europe-west2-docker.pkg.dev/gq-cloud-computing/fodie-and-ali-repo/tripmeal-database
         name: db
         ports:
         - containerPort: 3306
