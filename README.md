@@ -1,7 +1,7 @@
 # 🍽️ TripMeal
 
 **A Cloud-Native Recipe Sharing Web Application**
-> 📹 **Demo Video**: [Video of the Application Use](#)
+> 📹 **Demo Video**: https://drive.google.com/drive/u/0/folders/1Mt8jl8B6i8WvL6jO8cVZNTm_yqwXc9I_
 
 ---
 
