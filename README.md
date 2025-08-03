@@ -1,8 +1,6 @@
 # 🍽️ TripMeal
 
 **A Cloud-Native Recipe Sharing Web Application**
-
-> 🗂️ **GitHub Repository**: [TripMeal GitHub Repository](#)  
 > 📹 **Demo Video**: [Video of the Application Use](#)
 
 ---
