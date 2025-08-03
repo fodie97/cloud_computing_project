@@ -170,7 +170,7 @@ Manages:
    - `tripmeal.yml` applied to Kubernetes cluster  
    - External IP exposed via LoadBalancer  
 3. **Result**  
-   - 🎥 [Demo Video](#)
+   - 🎥 https://drive.google.com/drive/u/0/folders/1Mt8jl8B6i8WvL6jO8cVZNTm_yqwXc9I_
 
 ---
 
